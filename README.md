@@ -4,14 +4,14 @@
 
 I have experience with:
 - **Flutter** [familiar with *latest packages* . 👽]
-- **Laravel** [love building the project using *Tailwindcss, Alpinejs and Livewire*. 💖].
+- **Laravel** [love building the projects using *Tailwindcss, Alpinejs and Livewire*. 💖].
 
 Now training in Microverse to become a professional developer. 😎
 The stacks I learned in Microverse are **JavaScript**, **React** and **Ruby on Rails**. 📚
 
 I do have **Python** experience in Machine Learning in my University days. 👾
 
-I am thrilled to have junior and mid level opportunies... 🤗
+I am thrilled to have junior and mid level opportunies. Looking forward to new challenges... 🤗
 
 ---
 
