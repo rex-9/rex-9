@@ -13,9 +13,13 @@ I am thrilled to have junior and mid level opportunies... 🤗
 
 Here are some stats of mine:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htetnaing0814&count_private=true&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; align-items: end; justify-content: space-around;">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htetnaing0814&langs_count=6&layout=compact&theme=highcontrast)](https://github.com/nedith/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htetnaing0814&count_private=true&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htetnaing0814&langs_count=6&layout=compact&theme=github_dark)](https://github.com/nedith/github-readme-stats)
+  
+</div>
 
 <p align='center'> 
   Visitor count<br>
