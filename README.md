@@ -2,12 +2,14 @@
 
 <h3>👨🏻‍💻 A spiritual developer who loves mindfulness! ✨</h3>
 
-I have experience with: <br> - ** Flutter ** [familiar with * latest packages *. 👽] <br>  -** Laravel ** [love building the project using * Tailwindcss, Alpinejs and Livewire *. 💖]. <br>
+I have experience with:
+- **Flutter** [familiar with *latest packages* . 👽]
+- **Laravel** [love building the project using *Tailwindcss, Alpinejs and Livewire*. 💖].
 
-Now training in Microverse to become a professional developer. 😎<br>
-The stacks I learned in Microverse are ** JavaScript **, ** React ** and ** Ruby on Rails **. 📚
+Now training in Microverse to become a professional developer. 😎
+The stacks I learned in Microverse are **JavaScript**, **React** and **Ruby on Rails**. 📚
 
-I do have ** Python ** experiences in Machine Learning in my University days. 👾
+I do have **Python** experiences in Machine Learning in my University days. 👾
 
 I am thrilled to have junior and mid level opportunies... 🤗
 
