@@ -2,6 +2,7 @@
 
 <h3>👨🏻‍💻 A spiritual developer who loves mindfulness! ✨</h3>
 
+### :man_technologist: About Me :
 I have experience with:
 - **Flutter** [familiar with *latest packages* . 👽]
 - **Laravel** [love building the projects using *Tailwindcss, Alpinejs and Livewire*. 💖].
@@ -35,8 +36,7 @@ I am thrilled to have junior and mid level opportunies. Looking forward to new c
 
 ---
 
-Here are some stats of mine:
-
+### :fire: My Stats :
 <div style="display: flex; align-items: end; justify-content: space-around;">
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htetnaing0814&count_private=true&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
