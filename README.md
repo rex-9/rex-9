@@ -35,7 +35,7 @@ I am thrilled to have junior and mid level opportunies... 🤗
 
 Here are some stats of mine:
 
-<div style="display: flex; align-items: end; justify-content: space-around; width: 200px;">
+<div style="display: flex; align-items: end; justify-content: space-around;">
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htetnaing0814&count_private=true&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
