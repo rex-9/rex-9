@@ -2,7 +2,6 @@
 
 <h3>👨🏻‍💻 A spiritual developer who loves mindfulness! ✨</h3>
 
-### :man_technologist: About Me :
 I have experience with:
 - **Flutter** [familiar with *latest packages* . 👽]
 - **Laravel** [love building the projects using *Tailwindcss, Alpinejs and Livewire*. 💖].
