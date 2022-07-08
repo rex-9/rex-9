@@ -2,16 +2,16 @@
 
 <h3>👨🏻‍💻 A spiritual developer who loves mindfulness! ✨</h3>
 
-I have experience with: <br> - <b> Flutter </b> [familiar with <i> latest packages </i>. 👽] <br>  -<b> Laravel </b> [love building the project using <i> Tailwindcss, Alpinejs and Livewire </i>. 💖]. <br>
+I have experience with: <br> - ** Flutter ** [familiar with * latest packages *. 👽] <br>  -** Laravel ** [love building the project using * Tailwindcss, Alpinejs and Livewire *. 💖]. <br>
 
 Now training in Microverse to become a professional developer. 😎<br>
-The stacks I learned in Microverse are <b> JavaScript </b>, <b> React </b> and <b> Ruby on Rails </b>. 📚
+The stacks I learned in Microverse are ** JavaScript **, ** React ** and ** Ruby on Rails **. 📚
 
-I do have <b> Python </b> experiences in Machine Learning in my University days. 👾
+I do have ** Python ** experiences in Machine Learning in my University days. 👾
 
 I am thrilled to have junior and mid level opportunies... 🤗
 
--
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -24,17 +24,18 @@ I am thrilled to have junior and mid level opportunies... 🤗
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
 
--
+---
 
 Here are some stats of mine:
 
-<div style="display: flex; align-items: end; justify-content: space-around;">
+<div style="display: flex; align-items: end; justify-content: space-around; width: 600px;">
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htetnaing0814&count_private=true&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
