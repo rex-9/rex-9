@@ -9,7 +9,7 @@ I have experience with:
 Now training in Microverse to become a professional developer. 😎
 The stacks I learned in Microverse are **JavaScript**, **React** and **Ruby on Rails**. 📚
 
-I do have **Python** experiences in Machine Learning in my University days. 👾
+I do have **Python** experience in Machine Learning in my University days. 👾
 
 I am thrilled to have junior and mid level opportunies... 🤗
 
