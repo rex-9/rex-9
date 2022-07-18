@@ -11,7 +11,7 @@ The stacks I learned in Microverse are **JavaScript**, **React** and **Ruby on R
 
 I do have **Python** experience in Machine Learning in my University days. 👾
 
-I am thrilled to have junior and mid level opportunities. Looking forward to new challenges... 🤗
+I am thrilled to have junior level and mid-level opportunities. Looking forward to new challenges... 🤗
 
 ---
 
