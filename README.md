@@ -11,6 +11,8 @@ The stacks I learned in Microverse are **JavaScript**, **React** and **Ruby on R
 
 I do have **Python** experience in Machine Learning in my University days. 👾
 
+My highlighted projects are beautifully displayed in my [Portfolio](https://htetnaing0814.github.io/Portfolio)
+
 I am thrilled to have junior level and mid-level opportunities. Looking forward to new challenges... 🤗
 
 ---
