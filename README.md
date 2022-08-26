@@ -2,18 +2,15 @@
 
 <h3>👨🏻‍💻 A spiritual developer who loves mindfulness! ✨</h3>
 
-I have experience with:
-- **Flutter** [familiar with *latest packages* . 👽]
-- **Laravel** [love building the projects using *Tailwindcss, Alpinejs and Livewire*. 💖].
+Currently contributing in the open source projects, collaborating with the developers around the world. 🌎
 
-Now training in Microverse to become a professional developer. 😎
-The stacks I learned in Microverse are **JavaScript**, **React** and **Ruby on Rails**. 📚
+I can help you build attractive websites with maximum quality within the shortest time. 😎
 
-I do have **Python** experience in Machine Learning in my University days. 👾
+Highlighted projects are beautifully displayed in my [Portfolio](https://rex-9.netlify.app/) ✨
 
-My highlighted projects are beautifully displayed in my [Portfolio](https://htetnaing0814.github.io/Portfolio)
+To know me better, here is my [Resume](https://docs.google.com/document/d/1DgeSJuHl44cCu-xupH8gZ3ZD3rpcuY4I9R118GC0a8Q/) 📄 
 
-I am thrilled to have junior level and mid-level opportunities. Looking forward to new challenges... 🤗
+I am thrilled to participate in more and more opportunities. Looking forward to have brand new challenges... 🤗
 
 ---
 
