@@ -1,6 +1,6 @@
 <h2>👋 Hello! I'm Htet, aka "Rex"!</h2>
 
-<h3>👨🏻‍💻 A spiritual developer who loves mindfulness! ✨</h3>
+<h3>👨🏻‍💻 A Spiritual Full-Stack Developer who loves Mindfulness! ✨</h3>
 
 Currently contributing in the open source projects, collaborating with the developers around the world. 🌎
 
