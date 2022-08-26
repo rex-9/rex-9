@@ -37,13 +37,13 @@ I am thrilled to participate in more and more opportunities. Looking forward to 
 ### :fire: My Stats :
 <div style="display: flex; align-items: end; justify-content: space-around;">
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htetnaing0814&count_private=true&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rex-9&count_private=true&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htetnaing0814&langs_count=6&layout=compact&theme=github_dark)](https://github.com/nedith/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rex-9&langs_count=6&layout=compact&theme=github_dark)](https://github.com/nedith/github-readme-stats)
   
 </div>
 
 <p align='center'> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/htetnaing0814/count.svg" />
+  <img src="https://profile-counter.glitch.me/rex-9/count.svg" />
 </p>
