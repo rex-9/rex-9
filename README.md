@@ -4,7 +4,7 @@
 
 Currently contributing in the open source projects, collaborating with the developers around the world. 🌎
 
-I can help you build attractive websites with maximum quality within the shortest time. 😎
+I can help you build attractive websites with maximum quality within the shortest time interval. 😎
 
 I am now [Top 6](https://commits.top/myanmar_public.html) contributor of github in my country. 💪
 
