@@ -6,7 +6,7 @@ Currently contributing in the open source projects, collaborating with the devel
 
 I can help you build attractive websites with maximum quality within the shortest time interval. 😎
 
-I am now [Top 5](https://commits.top/myanmar_public.html) contributor of github in my country. 💪
+I am now [Top 4](https://commits.top/myanmar_public.html) contributor of github in my country. 💪
 
 Highlighted projects are beautifully displayed in my [Portfolio](https://rex-9.netlify.app/) ✨
 
