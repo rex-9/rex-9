@@ -1,9 +1,6 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-![Profile views](https://gpvc.arturio.dev/rex-9) 
-
 <h1 align="center">Hi 👋, I'm Htet, aka "Rex"!</h1>
 
-<h3>👨🏻‍💻 A Spiritual Full-Stack Developer who loves Mindfulness! ✨</h3>
+<h3 align="center">👨🏻‍💻 A Spiritual Full-Stack Developer who loves Mindfulness! ✨</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif" />
@@ -56,11 +53,3 @@ I am thrilled to participate in more and more opportunities. Looking forward to 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/rex-9/count.svg" />
 </p>
-
----
-
-### This week I spent my time on  <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
-
-[![Rex](https://github-readme-stats.vercel.app/api/wakatime?username=rex-9&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
