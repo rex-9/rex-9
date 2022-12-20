@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Htet,+aka+Rex!+&font=Quicksand&size=24)](https://git.io/typing-svg)
 
 </h1>
-
 <h3 align="center">👨🏻‍💻 A Spiritual Full-Stack Developer who loves Mindfulness! ✨</h3>
 
 - 🌎 Currently contributing in the open source projects, collaborating with the developers around the world.
