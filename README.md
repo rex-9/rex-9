@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Htet, aka "Rex"!</h1>
+<h1 align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Htet,+aka+Rex!+&font=Quicksand&size=24)](https://git.io/typing-svg)
+
+</h1>
 
 <h3 align="center">👨🏻‍💻 A Spiritual Full-Stack Developer who loves Mindfulness! ✨</h3>
 
