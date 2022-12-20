@@ -1,22 +1,13 @@
 <h1 align="center">Hi 👋, I'm Htet, aka "Rex"!</h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Htet,+aka+Rex!+&font=Quicksand&size=24)](https://git.io/typing-svg)
 <h3 align="center">👨🏻‍💻 A Spiritual Full-Stack Developer who loves Mindfulness! ✨</h3>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif" />
-</p>
-
-Currently contributing in the open source projects, collaborating with the developers around the world. 🌎
-
-I can help you build attractive websites with maximum quality within the shortest time interval. 😎
-
-I am now [Top 3](https://commits.top/myanmar_public.html) contributor of github in my country. 💪
-
-Highlighted projects are beautifully displayed in my [Portfolio](https://rex-9.netlify.app/) ✨
-
-To know me better, here is my [Resume](https://docs.google.com/document/d/1DgeSJuHl44cCu-xupH8gZ3ZD3rpcuY4I9R118GC0a8Q/) 📄 
-
-I am thrilled to participate in more and more opportunities. Looking forward to have brand new challenges... 🤗
+- 🌎 Currently contributing in the open source projects, collaborating with the developers around the world.
+- 😎 I can help you build attractive websites with maximum quality within the shortest time interval.
+- 💪 I am now [Top 3](https://commits.top/myanmar_public.html) contributor in my country according to GitHub.
+- ✨ Highlighted projects are beautifully displayed in my [Portfolio](https://rex-9.netlify.app/)
+- 📄 To know me better, here is my [Resume](https://docs.google.com/document/d/1DgeSJuHl44cCu-xupH8gZ3ZD3rpcuY4I9R118GC0a8Q/) 
+- 🤗 I am thrilled to participate in more and more opportunities. Looking forward to have brand new challenges...
 
 ---
 
