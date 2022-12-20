@@ -9,8 +9,9 @@
 - 😎 I can help you build attractive websites with maximum quality within the shortest time interval.
 - 💪 I am now [Top 3](https://commits.top/myanmar_public.html) contributor in my country according to GitHub.
 - ✨ Highlighted projects are beautifully displayed in my [Portfolio](https://rex-9.netlify.app/)
-- 📄 To know me better, here is my [Resume](https://docs.google.com/document/d/1DgeSJuHl44cCu-xupH8gZ3ZD3rpcuY4I9R118GC0a8Q/) 
+- 📄 To know me better, here is my [Resume](https://docs.google.com/document/d/1DgeSJuHl44cCu-xupH8gZ3ZD3rpcuY4I9R118GC0a8Q/)
 - 🤗 I am thrilled to participate in more and more opportunities. Looking forward to have brand new challenges...
+- 📫 How to reach me: [facebook](https://www.facebook.com/htetnaing0814), [Linkedin](https://www.linkedin.com/in/rex9/), htetnaing0814@gmail.com
 
 ---
 
