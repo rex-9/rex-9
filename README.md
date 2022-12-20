@@ -10,7 +10,7 @@ Currently contributing in the open source projects, collaborating with the devel
 
 I can help you build attractive websites with maximum quality within the shortest time interval. 😎
 
-I am now [Top 4](https://commits.top/myanmar_public.html) contributor of github in my country. 💪
+I am now [Top 3](https://commits.top/myanmar_public.html) contributor of github in my country. 💪
 
 Highlighted projects are beautifully displayed in my [Portfolio](https://rex-9.netlify.app/) ✨
 
@@ -41,13 +41,16 @@ I am thrilled to participate in more and more opportunities. Looking forward to 
 ---
 
 ### :fire: My Stats :
-<div style="display: flex; align-items: end; justify-content: space-around;">
+<div style="width: 100%; display: flex; justify-content: center;">
+  <div style="display: flex; align-items: center; width: 80%; justify-content: space-around;">
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rex-9&count_private=true&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rex-9&count_private=true&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rex-9&langs_count=6&layout=compact&theme=github_dark)](https://github.com/nedith/github-readme-stats)
-  
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rex-9&langs_count=6&layout=compact&theme=github_dark)](https://github.com/nedith/github-readme-stats)
+
+  </div>
 </div>
+
 
 <p align='center'> 
   Visitor count<br>
