@@ -7,7 +7,6 @@
 
 - 🌎 Currently contributing in the open source projects, collaborating with the developers around the world.
 - 😎 I can help you build attractive websites with maximum quality within the shortest time interval.
-- 💪 I am now [Top 3](https://commits.top/myanmar_public.html) contributor in my country according to GitHub.
 - ✨ Highlighted projects are beautifully displayed in my [Portfolio](https://rex-9.netlify.app/)
 - 📄 To know me better, here is my [Resume](https://docs.google.com/document/d/1DgeSJuHl44cCu-xupH8gZ3ZD3rpcuY4I9R118GC0a8Q/)
 - 🤗 I am thrilled to participate in more and more opportunities. Looking forward to having brand new challenges...
