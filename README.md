@@ -6,10 +6,9 @@
 <h3 align="center">👨🏻‍💻 A Spiritual Full-Stack Developer who loves Mindfulness! ✨</h3>
 
 - 🌎 Currently contributing in the open source projects, collaborating with the developers around the world.
-- 😎 I can help you build attractive websites with maximum quality within the shortest time interval.
-- ✨ Highlighted projects are beautifully displayed in my [Portfolio](https://rex-9.netlify.app/)
-- 📄 To know me better, here is my [Resume](https://docs.google.com/document/d/1DgeSJuHl44cCu-xupH8gZ3ZD3rpcuY4I9R118GC0a8Q/)
-- 🤗 I am thrilled to participate in more and more opportunities. Looking forward to having brand new challenges...
+- 😎 I can help you build attractive websites and application with maximum quality within the shortest time interval.
+- ✨ Highlighted projects are beautifully displayed in my [Portfolio](https://rex9.vercel.app/)
+- 📄 To know me better, here is my [Resume](https://tinyurl.com/rex9-cv)
 - 📫 How to reach me: [facebook](https://www.facebook.com/htetnaing0814), [Linkedin](https://www.linkedin.com/in/rex9/), htetnaing0814@gmail.com
 
 ---
