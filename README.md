@@ -3,13 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Htet%2C+aka+Rex!)](https://git.io/typing-svg)
   
 </h1>
-<h3 align="center">👨🏻‍💻 A Spiritual Full-Stack Developer who loves Mindfulness! ✨</h3>
+<h3 align="center">👨🏻‍💻 A Spiritual Full-Stack Developer embracing Mindfulness! ✨</h3>
 
-- 🌎 Currently contributing in the open source projects, collaborating with the developers around the world.
-- 😎 I can help you build attractive websites and application with maximum quality within the shortest time interval.
-- ✨ Highlighted projects are beautifully displayed in my [Portfolio](https://rex9.vercel.app/)
-- 📄 To know me better, here is my [Resume](https://tinyurl.com/rex9-cv)
-- 📫 How to reach me: [facebook](https://www.facebook.com/htetnaing0814), [Linkedin](https://www.linkedin.com/in/rex9/), htetnaing0814@gmail.com
+- 🛠️ Crafting real-world solutions while collaborating with developers and entrepreneurs across the globe.
+- ⚔️ Helping teams and founders bring high-quality web and mobile products to life — fast, clean, and battle-tested.
+- 🖼️ Featured works and projects are showcased in my [Portfolio](https://rex9.vercel.app/)
+- 📜 Learn more through my [Resume](https://tinyurl.com/rex9-cv) and my [Bento](https://bento.me/rex9)
+- 📫 Reach out via [facebook](https://www.facebook.com/htetnaing0814), [Linkedin](https://www.linkedin.com/in/rex9/), rex9.tech@gmail.com
 
 ---
 
