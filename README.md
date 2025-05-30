@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Htet%2C+aka+Rex!)](https://git.io/typing-svg)
   
 </h1>
-<h3 align="center">👨🏻‍💻 A Spiritual Full-Stack Developer embracing Mindfulness! ✨</h3>
+<h3 align="center">👨🏻‍💻 ~ A Spiritual Full-Stack Developer embracing Mindfulness ~ ✨</h3>
 
 - 🛠️ Crafting real-world solutions while collaborating with developers and entrepreneurs across the globe.
 - ⚔️ Helping teams and founders bring high-quality web and mobile products to life — fast, clean, and battle-tested.
